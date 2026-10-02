@@ -1,1 +1,6 @@
 # THE-LOVE-STORY•
+Name:
+RESEND_API_KEY
+
+Value:
+re_Ltiv4a8c_PmyuB8V54Yj8TG7LXMgQqpQ3
